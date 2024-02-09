@@ -1,0 +1,8 @@
+615c07e316ef5af4ca1b29610a402ffd  libmali.so.1.9.0
+4832ecff68e0f550887c58be4bc1a7dc  libmali_hook.so.1.9.0
+23e8d8273aa5a102fae45218019dd216  libmali_hook_injector.a
+0c65624ca9216b4f1a92d7ebf1301983  libEGL.so.1
+01eadad5e6b4661e6a3715352aac81eb  libGLESv1_CM.so.1
+908b9d4e555f89819e8fe76eb5d6b6c8  libGLESv2.so.2
+d5f3d3117fba058da17b731cd5065d86  libMaliOpenCL.so.1
+7716c1419fb06034131352d42a206dff  libgbm.so.1
